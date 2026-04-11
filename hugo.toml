@@ -1,0 +1,27 @@
+baseURL = 'https://ruubby.com'
+locale = 'en-us'
+title = 'Ruubby'
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"   # auto | light | dark
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Archive"
+    url = "/archives/"
+    weight = 5
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 10
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 15
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
