@@ -2,26 +2,37 @@ baseURL = 'https://ruubby.com'
 locale = 'en-us'
 title = 'Ruubby'
 theme = "PaperMod"
+copyright = "© 2026 Ruubby. All Rights Reserved."
 
 [params]
   defaultTheme = "auto"   # auto | light | dark
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  
 
 [menu]
+
+  [[menu.main]]
+    name = "In Stock"
+    url = "/tags/in-stock/"
+    weight = 5
+  [[menu.main]]
+    name = "Sold"
+    url = "/tags/sold/"
+    weight = 10
   [[menu.main]]
     name = "Archive"
     url = "/archives/"
-    weight = 5
+    weight = 15
   [[menu.main]]
     name = "Search"
     url = "/search/"
-    weight = 10
+    weight = 20
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 15
+    weight = 25
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
