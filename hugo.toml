@@ -9,6 +9,7 @@ copyright = "© 2026 Ruubby. All Rights Reserved."
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  ShowPostThumbnailInList = true
   
 
 [menu]
