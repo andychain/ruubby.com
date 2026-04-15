@@ -19,10 +19,6 @@ copyright = "© 2026 Ruubby. All Rights Reserved."
     url = "/tags/in-stock/"
     weight = 5
   [[menu.main]]
-    name = "Sold"
-    url = "/tags/sold/"
-    weight = 10
-  [[menu.main]]
     name = "Archive"
     url = "/archives/"
     weight = 15
