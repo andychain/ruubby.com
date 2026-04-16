@@ -28,4 +28,4 @@ A generous pile of raw garnet crystals rests on a decorative plate, showcasing t
 {{< youtube -BE4b3E2TRs >}}
 
 ## Contact
-Gem dealers and collectors can reach us at info@ruubby.com
+Gem dealers and collectors can reach us at **info@ruubby.com**
