@@ -27,3 +27,7 @@ A stunning 87.4 carat rose pink rough sapphire, featuring a delicate blush tone 
 ## Video
 
 {{< youtube w4j3DUn8GTk >}}
+
+## Contact
+
+Gem dealers and collectors can reach us at info@ruubby.com

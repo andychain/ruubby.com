@@ -14,7 +14,7 @@ A generous pile of raw garnet crystals rests on a decorative plate, showcasing t
 
 ## Details
 
-- **Weight:** 1 ~ 3 carats
+- **Weight:** 2 ~ 7 carats
 - **Color:** deep wine-red
 - **Type:** Rough / Uncut
 - **Origin:** Natural
@@ -26,3 +26,6 @@ A generous pile of raw garnet crystals rests on a decorative plate, showcasing t
 ## Video
 
 {{< youtube -BE4b3E2TRs >}}
+
+## Contact
+Gem dealers and collectors can reach us at info@ruubby.com
