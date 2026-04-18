@@ -2,7 +2,7 @@ baseURL = 'https://ruubby.com'
 locale = 'en-us'
 title = 'Ruubby'
 theme = "PaperMod"
-copyright = "© 2026 Ruubby. All Rights Reserved."
+copyright = "© 2026 Ruubby. All Rights Reserved"
 
 [params]
   defaultTheme = "auto"   # auto | light | dark
