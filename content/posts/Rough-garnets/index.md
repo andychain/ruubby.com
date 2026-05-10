@@ -17,7 +17,7 @@ A generous pile of raw garnet crystals rests on a decorative plate, showcasing t
 - **Weight:** 2 ~ 7 carats
 - **Color:** deep wine-red
 - **Type:** Rough / Uncut
-- **Origin:** Natural
+- **Origin:** Pailin, Cambodia
 
 ## More Photos
 
