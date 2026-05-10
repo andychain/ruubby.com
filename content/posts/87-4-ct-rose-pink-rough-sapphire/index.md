@@ -18,7 +18,7 @@ A stunning 87.4 carat rose pink rough sapphire, featuring a delicate blush tone 
 - **Weight:** 87.4 carats
 - **Color:** Rose Pink
 - **Type:** Rough / Uncut
-- **Origin:** Natural
+- **Origin:** Pailin, Cambodia
 
 ## More Photos
 
